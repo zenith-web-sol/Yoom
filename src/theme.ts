@@ -1,0 +1,16 @@
+export const theme = {
+  bg: "#0a0a0f",
+  bgGradient: "radial-gradient(circle at top, #1a1a2e 0%, #0a0a0f 60%)",
+  surface: "#15151f",
+  surfaceLight: "#1e1e2c",
+  border: "#28283a",
+  primary: "#6366f1",
+  primaryHover: "#818cf8",
+  success: "#22c55e",
+  danger: "#ef4444",
+  host: "#eab308",
+  coHost: "#6366f1",
+  participant: "#71717a",
+  text: "#f4f4f6",
+  textMuted: "#8b8b9e",
+};
